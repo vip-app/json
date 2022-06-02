@@ -35,7 +35,7 @@
           "link": "",
           "notification": "Обновление|11 Апреля вышло новое обновление данного приложения",
           "share": "https://ok-dom.github.io/eda",
-          "tel": "+79287816582"
+          "tel": "+79637069638"
         }
       ],
       "products": [
@@ -51,42 +51,14 @@
           "description": "",
           "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/frenchfries.jpg",
           "price": "49.00",
-          "title": "Картошка фри за 49"
-        },
-        {
-          "category": "Картофель",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/frenchfries.jpg",
-          "price": "79.00",
-          "title": "Картошка фри за 79"
-        },
-        {
-          "category": "Картофель",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/frenchfries.jpg",
-          "price": "115.00",
-          "title": "Картошка фри за 115"
-        },
-        {
-          "category": "Картофель",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/rusticpotatoes.jpeg",
-          "price": "53.00",
-          "title": "Картошка по деревенски за 53"
-        },
-        {
-          "category": "Картофель",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/rusticpotatoes.jpeg",
-          "price": "79.00",
-          "title": "Картошка по деревенски за 79"
+          "title": "Картошка фри"
         },
         {
           "category": "Картофель",
           "description": "",
           "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/rusticpotatoes.jpeg",
           "price": "115.00",
-          "title": "Картошка по деревенски за 115"
+          "title": "Картошка по деревенски"
         },
         {
           "category": "Шаурма",
@@ -100,21 +72,7 @@
           "description": "",
           "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
           "price": "130.00",
-          "title": "Шаурма в лаваше за 130"
-        },
-        {
-          "category": "Шаурма",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
-          "price": "170.00",
-          "title": "Шаурма в лаваше за 170"
-        },
-        {
-          "category": "Шаурма",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
-          "price": "220.00",
-          "title": "Шаурма в лаваше за 220"
+          "title": "Шаурма в лаваше"
         },
         {
           "category": "Гиро и Донар",
@@ -149,21 +107,7 @@
           "description": "",
           "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
           "price": "150.00",
-          "title": "Крылья в панировке (5 шт)"
-        },
-        {
-          "category": "Из курицы",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-          "price": "210.00",
-          "title": "Крылья в панировке (7 шт)"
-        },
-        {
-          "category": "Из курицы",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-          "price": "270.00",
-          "title": "Крылья в панировке (9 шт)"
+          "title": "Крылья в панировке"
         },
         {
           "category": "Из курицы",
@@ -268,42 +212,21 @@
           "description": "",
           "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizza.jpeg",
           "price": "250.00",
-          "title": "Пицца Ассорти (средний)"
-        },
-        {
-          "category": "Пицца",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizza.jpeg",
-          "price": "350.00",
-          "title": "Пицца Ассорти (большой)"
-        },
-        {
-          "category": "Пицца",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pepperoni.jpeg",
-          "price": "250.00",
-          "title": "Пицца пепперони (средний)"
+          "title": "Пицца Ассорти"
         },
         {
           "category": "Пицца",
           "description": "",
           "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pepperoni.jpeg",
           "price": "350.00",
-          "title": "Пицца пепперони (большой)"
+          "title": "Пицца пепперони"
         },
         {
           "category": "Пицца",
           "description": "",
           "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizzaegg.jpeg",
           "price": "250.00",
-          "title": "Мясная пицца (средний)"
-        },
-        {
-          "category": "Пицца",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizzameat.jpeg",
-          "price": "350.00",
-          "title": "Мясная пицца (большой)"
+          "title": "Мясная пицца"
         },
         {
           "category": "Суши",
@@ -366,7 +289,7 @@
         {
           "category": "settings",
           "delivery": "10.00 за 1 km",
-          "whatsapp": "+79287816582",
+          "whatsapp": "+79637069638",
           "namefortop": "Лучшая еда"
         }
       ],

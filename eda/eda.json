@@ -33,8 +33,7 @@
         {
           "category": "drawer",
           "link": "",
-          "notification": "Обновление|11 Апреля вышло новое обновление данного приложения",
-          "share": "https://vip-app.github.io/eda",
+          "share": "https://vip-app.github.io/eda/",
           "tel": "+79637069638"
         }
       ],
@@ -288,7 +287,6 @@
       "settings": [
         {
           "category": "settings",
-          "delivery": "10.00 за 1 km",
           "whatsapp": "+79637069638",
           "namefortop": "Лучшая еда"
         }

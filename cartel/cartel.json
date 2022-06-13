@@ -1,0 +1,303 @@
+{
+      "categories": [
+        {
+          "category": "Фастфуд.",
+          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/fastfood.png"
+        },
+        {
+          "category": "Бургеры",
+          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/burger.png"
+        },
+        {
+          "category": "Пицца",
+          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/pizzaa.png"
+        },
+        {
+          "category": "Суши",
+          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/maki.png"
+        },
+        {
+          "category": "Горячие блюда",
+          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/breakfast.png"
+        },
+        {
+          "category": "Салаты",
+          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/noodles.png"
+        },
+        {
+          "category": "Соки",
+          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/soda-can.png"
+        }
+      ],
+      "drawer": [
+        {
+          "category": "drawer",
+          "link": "",
+          "share": "https://vip-app.github.io/eda/",
+          "tel": "+79637069638"
+        }
+      ],
+      "products": [
+        {
+          "category": "Сэндвичи",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/toaster.jpg",
+          "price": "99.00",
+          "title": "Тостер"
+        },
+        {
+          "category": "Картофель",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/frenchfries.jpg",
+          "price": "49.00",
+          "title": "Картошка фри"
+        },
+        {
+          "category": "Картофель",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/rusticpotatoes.jpeg",
+          "price": "115.00",
+          "title": "Картошка по деревенски"
+        },
+        {
+          "category": "Шаурма",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarmabaguette.jpg",
+          "price": "150.00",
+          "title": "Шаурма в батоне"
+        },
+        {
+          "category": "Шаурма",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
+          "price": "130.00",
+          "title": "Шаурма в лаваше"
+        },
+        {
+          "category": "Гиро и Донар",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/gyro.jpg",
+          "price": "240.00",
+          "title": "Гиро (на тарелке)"
+        },
+        {
+          "category": "Гиро и Донар",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/donar.jpg",
+          "price": "150.00",
+          "title": "Донар"
+        },
+        {
+          "category": "Из курицы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/nuggets.jpg",
+          "price": "120.00",
+          "title": "Наггетсы (6 шт)"
+        },
+        {
+          "category": "Из курицы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cheesesticks.jpg",
+          "price": "140.00",
+          "title": "Сырные палочки (7 шт)"
+        },
+        {
+          "category": "Из курицы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
+          "price": "150.00",
+          "title": "Крылья в панировке"
+        },
+        {
+          "category": "Из курицы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/strips.jpg",
+          "price": "79",
+          "title": "Стрипсы (2 шт)"
+        },
+        {
+          "category": "Бургеры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cheeseburger.jpg",
+          "price": "90.00",
+          "title": "Чизбургер"
+        },
+        {
+          "category": "Бургеры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/bengburger.jpg",
+          "price": "190.00",
+          "title": "Бенбургер"
+        },
+        {
+          "category": "Бургеры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/doublecheeseburger.jpeg",
+          "price": "190.00",
+          "title": "Двойной чизбургер"
+        },
+        {
+          "category": "Бургеры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/hamburger.jpeg",
+          "price": "79.00",
+          "title": "Гамбургер"
+        },
+        {
+          "category": "Бургеры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/doublehamburger.jpg",
+          "price": "160.00",
+          "title": "Двойной гамбургер"
+        },
+        {
+          "category": "Бургеры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/chickenburger.jpg",
+          "price": "90.00",
+          "title": "Чикенбургер"
+        },
+        {
+          "category": "Бургеры",
+          "description": "",
+          "image": "",
+          "price": "180.00",
+          "title": "Двойной чикенбургер"
+        },
+        {
+          "category": "Горячие блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/Dumplings2.jpeg",
+          "price": "150.00",
+          "title": "Пельмени"
+        },
+        {
+          "category": "Горячие блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cutlets1.jpeg",
+          "price": "150.00",
+          "title": "Котлеты с пюре"
+        },
+        {
+          "category": "Горячие блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cutlets2.jpeg",
+          "price": "120.00",
+          "title": "Котлеты"
+        },
+        {
+          "category": "Салаты",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad1.jpeg",
+          "price": "190.00",
+          "title": "Салат Цезарь"
+        },
+        {
+          "category": "Салаты",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad2.jpeg",
+          "price": "150.00",
+          "title": "Крабовый салат"
+        },
+        {
+          "category": "Салаты",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad3.jpeg",
+          "price": "150.00",
+          "title": "Морковка по корейски"
+        },
+        {
+          "category": "Пицца",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizza.jpeg",
+          "price": "250.00",
+          "title": "Пицца Ассорти"
+        },
+        {
+          "category": "Пицца",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pepperoni.jpeg",
+          "price": "350.00",
+          "title": "Пицца пепперони"
+        },
+        {
+          "category": "Пицца",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizzaegg.jpeg",
+          "price": "250.00",
+          "title": "Мясная пицца"
+        },
+        {
+          "category": "Суши",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi2.jpeg",
+          "price": "250.00",
+          "title": "Калифорния"
+        },
+        {
+          "category": "Суши",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/acne.jpeg",
+          "price": "250.00",
+          "title": "Хрустящий угорь"
+        },
+        {
+          "category": "Суши",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salmon.jpeg",
+          "price": "200.00",
+          "title": "Суши с лососем"
+        },
+        {
+          "category": "Суши",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/philadelphia.jpeg",
+          "price": "250.00",
+          "title": "Филодельфия"
+        },
+        {
+          "category": "Суши",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi1.jpeg",
+          "price": "900.00",
+          "title": "Ben Set"
+        },
+        {
+          "category": "Соки",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pepsi.jpeg",
+          "price": "60.00",
+          "title": "Пепси в банке"
+        },
+        {
+          "category": "Соки",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cola2.jpeg",
+          "price": "100.00",
+          "title": "Кола в бутылке"
+        },
+        {
+          "category": "Соки",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cola1.jpeg",
+          "price": "60.00",
+          "title": "Кола в банке"
+        }
+      ],
+      "settings": [
+        {
+          "category": "settings",
+          "whatsapp": "+79637069638",
+          "namefortop": "Лучшая еда"
+        }
+      ],
+      "topproduct": [
+        {
+          "category": "topproduct",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/benkombo.jpeg",
+          "price": "329.00",
+          "title": "Бен комбо #1"
+        }
+      ]
+    }

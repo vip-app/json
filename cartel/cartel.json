@@ -41,6 +41,10 @@
           "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/steak.png"
         },
         {
+          "category": "Саджи",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/sadj.png"
+        },
+        {
           "category": "Десерты",
           "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/dessert.png"
         }
@@ -277,6 +281,13 @@
           "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/ch1ep1alg.jpeg",
           "price": "110.00",
           "title": "Ч1еп1алг"
+        },
+        {
+          "category": "Саджи",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/sadzhbaranina.jpeg",
+          "price": "690.00",
+          "title": "Садж баранина"
         }
       ],
       "settings": [
@@ -290,9 +301,9 @@
         {
           "category": "topproduct",
           "description": "",
-          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/sadzhbaranina.jpeg",
-          "price": "690.00",
-          "title": "Садж баранина"
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kurinyjstejk.jpeg",
+          "price": "300.00",
+          "title": "Куриный стейк"
         }
       ]
     }

@@ -33,10 +33,6 @@
           "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/nac-kuhnia.png"
         },
         {
-          "category": "Саджи",
-          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/sadj.png"
-        },
-        {
           "category": "Роллы",
           "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/maki.png"
         },
@@ -220,13 +216,6 @@
           "title": "Мясо по-тайски"
         },
         {
-          "category": "Саджи",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/sadzhbaranina.jpeg",
-          "price": "690.00",
-          "title": "Садж баранина"
-        },
-        {
           "category": "Стейки",
           "description": "",
           "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/stejkmin0on.jpeg",
@@ -301,9 +290,9 @@
         {
           "category": "topproduct",
           "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/benkombo.jpeg",
-          "price": "329.00",
-          "title": "Бен комбо #1"
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/sadzhbaranina.jpeg",
+          "price": "690.00",
+          "title": "Садж баранина"
         }
       ]
     }

@@ -1,293 +1,311 @@
 {
       "categories": [
         {
-          "category": "Фастфуд.",
-          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/fastfood.png"
+          "category": "Весь меню.",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/all-menu.png"
         },
         {
-          "category": "Бургеры",
-          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/burger.png"
+          "category": "Завтраки",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/breakfast.png"
         },
         {
-          "category": "Пицца",
-          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/pizzaa.png"
-        },
-        {
-          "category": "Суши",
-          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/maki.png"
-        },
-        {
-          "category": "Горячие блюда",
-          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/breakfast.png"
+          "category": "Вторые блюда",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/serving-dish.png"
         },
         {
           "category": "Салаты",
-          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/noodles.png"
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/noodles.png"
         },
         {
-          "category": "Соки",
-          "icon": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/icons/soda-can.png"
+          "category": "Супы",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/soup.png"
+        },
+        {
+          "category": "Гарниры",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/garnishes.png"
+        },
+        {
+          "category": "Мангал",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/kebab.png"
+        },
+        {
+          "category": "Осетинские пироги",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/pie.png"
+        },
+        {
+          "category": "Пицца",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/pizzaa.png"
+        },
+        {
+          "category": "Национальная кухня",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/nac-kuhnia.png"
+        },
+        {
+          "category": "Саджи",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/sadj.png"
+        },
+        {
+          "category": "Роллы",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/maki.png"
+        },
+        {
+          "category": "Стейки",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/steak.png"
+        },
+        {
+          "category": "Соусы",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/sauces.png"
+        },
+        {
+          "category": "Десерты",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/dessert.png"
         }
       ],
       "drawer": [
         {
           "category": "drawer",
           "link": "",
-          "share": "https://vip-app.github.io/eda/",
-          "tel": "+79637069638"
+          "share": "https://vip-app.github.io/cartel/",
+          "tel": "+79630007744"
         }
       ],
       "products": [
         {
-          "category": "Сэндвичи",
+          "category": "Завтраки",
           "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/toaster.jpg",
-          "price": "99.00",
-          "title": "Тостер"
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/bavarskijzavtrak.jpeg",
+          "price": "200.00",
+          "title": "Баварский завтрак"
         },
         {
-          "category": "Картофель",
+          "category": "Вторые блюда",
           "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/frenchfries.jpg",
-          "price": "49.00",
-          "title": "Картошка фри"
-        },
-        {
-          "category": "Картофель",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/rusticpotatoes.jpeg",
-          "price": "115.00",
-          "title": "Картошка по деревенски"
-        },
-        {
-          "category": "Шаурма",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarmabaguette.jpg",
-          "price": "150.00",
-          "title": "Шаурма в батоне"
-        },
-        {
-          "category": "Шаурма",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/shawarma.jpg",
-          "price": "130.00",
-          "title": "Шаурма в лаваше"
-        },
-        {
-          "category": "Гиро и Донар",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/gyro.jpg",
-          "price": "240.00",
-          "title": "Гиро (на тарелке)"
-        },
-        {
-          "category": "Гиро и Донар",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/donar.jpg",
-          "price": "150.00",
-          "title": "Донар"
-        },
-        {
-          "category": "Из курицы",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/nuggets.jpg",
-          "price": "120.00",
-          "title": "Наггетсы (6 шт)"
-        },
-        {
-          "category": "Из курицы",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cheesesticks.jpg",
-          "price": "140.00",
-          "title": "Сырные палочки (7 шт)"
-        },
-        {
-          "category": "Из курицы",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/wingsbreadcrumbs.jpg",
-          "price": "150.00",
-          "title": "Крылья в панировке"
-        },
-        {
-          "category": "Из курицы",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/strips.jpg",
-          "price": "79",
-          "title": "Стрипсы (2 шт)"
-        },
-        {
-          "category": "Бургеры",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cheeseburger.jpg",
-          "price": "90.00",
-          "title": "Чизбургер"
-        },
-        {
-          "category": "Бургеры",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/bengburger.jpg",
-          "price": "190.00",
-          "title": "Бенбургер"
-        },
-        {
-          "category": "Бургеры",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/doublecheeseburger.jpeg",
-          "price": "190.00",
-          "title": "Двойной чизбургер"
-        },
-        {
-          "category": "Бургеры",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/hamburger.jpeg",
-          "price": "79.00",
-          "title": "Гамбургер"
-        },
-        {
-          "category": "Бургеры",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/doublehamburger.jpg",
-          "price": "160.00",
-          "title": "Двойной гамбургер"
-        },
-        {
-          "category": "Бургеры",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/chickenburger.jpg",
-          "price": "90.00",
-          "title": "Чикенбургер"
-        },
-        {
-          "category": "Бургеры",
-          "description": "",
-          "image": "",
-          "price": "180.00",
-          "title": "Двойной чикенбургер"
-        },
-        {
-          "category": "Горячие блюда",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/Dumplings2.jpeg",
-          "price": "150.00",
-          "title": "Пельмени"
-        },
-        {
-          "category": "Горячие блюда",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cutlets1.jpeg",
-          "price": "150.00",
-          "title": "Котлеты с пюре"
-        },
-        {
-          "category": "Горячие блюда",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cutlets2.jpeg",
-          "price": "120.00",
-          "title": "Котлеты"
-        },
-        {
-          "category": "Салаты",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad1.jpeg",
-          "price": "190.00",
-          "title": "Салат Цезарь"
-        },
-        {
-          "category": "Салаты",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad2.jpeg",
-          "price": "150.00",
-          "title": "Крабовый салат"
-        },
-        {
-          "category": "Салаты",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salad3.jpeg",
-          "price": "150.00",
-          "title": "Морковка по корейски"
-        },
-        {
-          "category": "Пицца",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizza.jpeg",
-          "price": "250.00",
-          "title": "Пицца Ассорти"
-        },
-        {
-          "category": "Пицца",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pepperoni.jpeg",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/befstroganov.jpeg",
           "price": "350.00",
+          "title": "Бефстроганов"
+        },
+        {
+          "category": "Национальная кухня",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/galnawskolbasoj.jpeg",
+          "price": "450.00",
+          "title": "Галнаш с колбасой"
+        },
+        {
+          "category": "Роллы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/gorchijwik.jpeg",
+          "price": "330.00",
+          "title": "Горячий шик"
+        },
+        {
+          "category": "Национальная кухня",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/dak0ijnazhizhiggalnaw.jpeg",
+          "price": "550.00",
+          "title": "Дакъийна жижиг-галнаш"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/zharkoepodomawnemu.jpeg",
+          "price": "300.00",
+          "title": "Жаркое по-домашнему"
+        },
+        {
+          "category": "Роллы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/zapechnnyjrollcezar0.jpeg",
+          "price": "300.00",
+          "title": "Запечённый ролл цезарь"
+        },
+        {
+          "category": "Роллы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kaliforniskrevetkoj.jpeg",
+          "price": "280.00",
+          "title": "Калифорния с креветкой"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kotletapokievski.jpeg",
+          "price": "280.00",
+          "title": "Котлета по-киевски"
+        },
+        {
+          "category": "Стейки",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kurinyjstejk.jpeg",
+          "price": "300.00",
+          "title": "Куриный стейк"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kuricavukropnomsouse.jpeg",
+          "price": "250.00",
+          "title": "Курица в укропном соусе"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/lapwaudonskrevetkoj.jpeg",
+          "price": "300.00",
+          "title": "Лапша удон с креветкой"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/lapwaudonskuricej.jpeg",
+          "price": "250.00",
+          "title": "Лапша удон с курицей"
+        },
+        {
+          "category": "Мангал",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/lyulkebab.jpeg",
+          "price": "400.00",
+          "title": "Люля-кебаб"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/manty.jpeg",
+          "price": "150.00",
+          "title": "Манты"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/msopofrancuzski.jpeg",
+          "price": "300.00",
+          "title": "Мясо по-французски"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/msopowvejcarski.jpeg",
+          "price": "300.00",
+          "title": "Мясо по-швейцарски"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/pechen0vsmetannochesnochnomsouse.jpeg",
+          "price": "300.00",
+          "title": "Печень в сметанно-чесночном соусе"
+        },
+        {
+          "category": "Пицца",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/piccaassorti.jpeg",
+          "price": "290.00",
+          "title": "Пицца ассорти"
+        },
+        {
+          "category": "Пицца",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/piccakurina.jpeg",
+          "price": "290.00",
+          "title": "Пицца куриная"
+        },
+        {
+          "category": "Пицца",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/piccapepperoni.jpeg",
+          "price": "270.00",
           "title": "Пицца пепперони"
         },
         {
           "category": "Пицца",
           "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pizzaegg.jpeg",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/piccacezar0.jpeg",
+          "price": "280.00",
+          "title": "Пицца цезарь"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/msopotajski.jpeg",
+          "price": "330.00",
+          "title": "Мясо по-тайски"
+        },
+        {
+          "category": "",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/sadzhbaranina.jpeg",
+          "price": "690.00",
+          "title": "Садж баранина"
+        },
+        {
+          "category": "Стейки",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/stejkmin0on.jpeg",
+          "price": "550.00",
+          "title": "Стейк миньон"
+        },
+        {
+          "category": "Стейки",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/stejkribaj.jpeg",
+          "price": "550.00",
+          "title": "Стейк рибай"
+        },
+        {
+          "category": "Десерты",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/tortmorozhenoe.jpeg",
           "price": "250.00",
-          "title": "Мясная пицца"
+          "title": "Торт мороженое"
         },
         {
-          "category": "Суши",
+          "category": "Вторые блюда",
           "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi2.jpeg",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/fettuchini.jpeg",
+          "price": "330.00",
+          "title": "Феттучини"
+        },
+        {
+          "category": "Роллы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/filadel0fi.jpeg",
+          "price": "300.00",
+          "title": "Филадельфия"
+        },
+        {
+          "category": "Вторые блюда",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/hachapuripoadzharski.jpeg",
           "price": "250.00",
-          "title": "Калифорния"
+          "title": "Хачапури по-аджарски"
         },
         {
-          "category": "Суши",
+          "category": "Салаты",
           "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/acne.jpeg",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/cezar0skrevetkoj.jpeg",
           "price": "250.00",
-          "title": "Хрустящий угорь"
+          "title": "Цезарь с креветкой"
         },
         {
-          "category": "Суши",
+          "category": "Супы",
           "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/salmon.jpeg",
-          "price": "200.00",
-          "title": "Суши с лососем"
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/chechevichnyjsup.jpeg",
+          "price": "170.00",
+          "title": "Чечевичный суп"
         },
         {
-          "category": "Суши",
+          "category": "Национальная кухня",
           "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/philadelphia.jpeg",
-          "price": "250.00",
-          "title": "Филодельфия"
-        },
-        {
-          "category": "Суши",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/sushi1.jpeg",
-          "price": "900.00",
-          "title": "Ben Set"
-        },
-        {
-          "category": "Соки",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/pepsi.jpeg",
-          "price": "60.00",
-          "title": "Пепси в банке"
-        },
-        {
-          "category": "Соки",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cola2.jpeg",
-          "price": "100.00",
-          "title": "Кола в бутылке"
-        },
-        {
-          "category": "Соки",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/ok-dom/json/main/food/delivery/images/cola1.jpeg",
-          "price": "60.00",
-          "title": "Кола в банке"
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/ch1ep1alg.jpeg",
+          "price": "110.00",
+          "title": "Ч1еп1алг"
         }
       ],
       "settings": [
         {
           "category": "settings",
-          "whatsapp": "+79637069638",
+          "whatsapp": "+79630007744",
           "namefortop": "Лучшая еда"
         }
       ],

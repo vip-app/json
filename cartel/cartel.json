@@ -1,7 +1,7 @@
 {
       "categories": [
         {
-          "category": "Весь меню.",
+          "category": "Все меню.",
           "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/all-menu.png"
         },
         {
@@ -47,6 +47,10 @@
         {
           "category": "Десерты",
           "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/dessert.png"
+        },
+        {
+          "category": "Гарниры",
+          "icon": "https://raw.githubusercontent.com/vip-app/icons/main/food-icons/garnishes.png"
         }
       ],
       "drawer": [
@@ -122,13 +126,6 @@
           "title": "Котлета по-киевски"
         },
         {
-          "category": "Стейки",
-          "description": "",
-          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kurinyjstejk.jpeg",
-          "price": "300.00",
-          "title": "Куриный стейк"
-        },
-        {
           "category": "Вторые блюда",
           "description": "",
           "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kuricavukropnomsouse.jpeg",
@@ -145,7 +142,7 @@
         {
           "category": "Вторые блюда",
           "description": "",
-          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/lapwaudonskuricej.jpeg",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/udonskuricej.jpeg",
           "price": "250.00",
           "title": "Лапша удон с курицей"
         },
@@ -273,7 +270,7 @@
           "description": "",
           "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/chechevichnyjsup.jpeg",
           "price": "170.00",
-          "title": "Чечевичный суп"
+          "title": "Том-Ям"
         },
         {
           "category": "Национальная кухня",
@@ -288,6 +285,90 @@
           "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/sadzhbaranina.jpeg",
           "price": "690.00",
           "title": "Садж баранина"
+        },
+	  {
+          "category": "Десерты",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/bauntitort.jpeg",
+          "price": "250.00",
+          "title": "Баунти торт"
+        },
+	  {
+          "category": "Гарниры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/grechka.jpeg",
+          "price": "80.00",
+          "title": "Гречка"
+        },
+	  {
+          "category": "Гарниры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kartofel0noepyure.jpeg",
+          "price": "80.00",
+          "title": "Картофельное пюре"
+        },
+	  {
+          "category": "Гарниры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kartowkafri.jpeg",
+          "price": "100.00",
+          "title": "Картошка-фри"
+        },
+	  {
+          "category": "Стейки",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kurinyjstejksgrechkoj.jpeg",
+          "price": "300.00",
+          "title": "Куриный стейк с гречкой"
+        },
+	  {
+          "category": "Супы",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/kurinyjsup.jpeg",
+          "price": "150.00",
+          "title": "Куриный суп"
+        },
+	  {
+          "category": "Гарниры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/poderevenski.jpeg",
+          "price": "100.00",
+          "title": "Картофель по-деревенски"
+        },
+	  {
+          "category": "Гарниры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/rissovoshhami.jpeg",
+          "price": "100.00",
+          "title": "Рис с овощами"
+        },
+	  {
+          "category": "Гарниры",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/risparenyj.jpeg",
+          "price": "80.00",
+          "title": "Рис пареный"
+        },
+	  {
+          "category": "Салаты",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/salatgrecheskij.jpeg",
+          "price": "200.00",
+          "title": "Салат греческий"
+        },
+	  {
+          "category": "Десерты",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/snikerstort.jpeg",
+          "price": "250.00",
+          "title": "Сникерс торт"
+        },
+	  {
+          "category": "Национальная кухня",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/hingal.jpeg",
+          "price": "110.00",
+          "title": "Хингал"
         }
       ],
       "settings": [
@@ -306,4 +387,4 @@
           "title": "Куриный стейк"
         }
       ]
-    }
+}

@@ -233,6 +233,13 @@
           "price": "350.00",
           "title": "Коралловый риф"
         },
+	        {
+          "category": "Салаты",
+          "description": "",
+          "image": "https://raw.githubusercontent.com/vip-app/images/main/cartel/ovoshhnanarezka.jpeg",
+          "price": "250.00",
+          "title": "Овощная нарезка"
+        },
 		{
           "category": "Пасты",
           "description": "",
